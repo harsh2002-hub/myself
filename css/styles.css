@@ -1,0 +1,160 @@
+.inbo
+{
+  margin: 0px 0px 0px 0px;
+text-align: center;
+color: #40514E;
+ font-family: 'Merriweather', serif;
+}
+
+.front-container
+{
+  background-color: LightCyan;
+padding-top: 150px;
+position: relative;
+}
+
+.cloud-bottom
+{
+  position: absolute;
+  bottom: 18rem;
+  left: 12rem;
+}
+.cloud-top
+{
+position: absolute;
+right: 12rem;
+top: 5.5rem;
+}
+.span1{
+  font-size: 6.5rem;
+}
+h1
+{
+   font-family: 'Sacramento', cursive;
+ color: #66BFBF
+}
+
+.profile-photo
+{
+  position:absolute;
+  height: 3rem;
+  width: 3rem;
+left: 10%;
+  top: 10%;
+}
+
+
+
+.first-heading
+{
+  font-size: 5.5rem;
+  margin: auto auto 0 auto;
+}
+.abc
+{
+  margin-top: 0;
+  font-size: 2rem;
+color: #66BFBF;
+font-weight: normal;
+}
+h2
+{
+  font-family: sans-serif;
+  color: #66BFBF
+}
+.my-photo
+{
+  margin: 0.95rem auto 0.3rem auto;
+   width: 25%;
+  border-radius: 100%;
+}
+h3
+{
+  color: #11999E;
+}
+a
+{
+  color: #11999E;
+}
+.skill-row
+{
+  width:50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.skill-1
+{
+  float: left;
+  width: 20%;
+  margin-right: 30px;
+  border-radius: 100%;
+}
+.skill-2
+{
+  float: right;
+  width: 20%;
+  margin-left: 30px;
+  border-radius:100%;
+}
+.profile
+{
+  width: 40%;
+  margin: 50px auto 50px auto;
+}
+.bor-1
+{
+  margin: 7rem auto 7rem auto;
+  width: 5%;
+  border-color: grey;
+  border-width: thick;
+  border-style: dotted;
+  border-bottom: none;
+  border-left: none;
+  border-right: none;
+}
+.bottom-container
+{
+
+  background-color: #66BFBF;
+  height:8rem;
+  padding-top: 2rem;
+
+}
+.footer-link
+{
+  color: #11999E ;
+  display: inline-block;
+  margin: auto 1rem auto 1rem;
+  text-decoration: none;
+}
+a:hover
+{
+  color: #EAF6F6;
+}
+.footer
+{
+  color: #EAF6F6;
+  margin-top: 2rem;
+  font-size: 0.75rem;
+}
+.btn
+{
+  background-color:#66BFBF ;
+ color: white;
+ padding: 0.5rem 0.5rem;
+ text-align: center;
+ text-decoration: none;
+ display: inline-block;
+ font-size: 1rem;
+ margin: 2.5rem auto 5rem auto;
+border-radius: 5%;
+}
+.contact-me
+{
+  width: 50%;
+  margin:auto;
+}
+p:hover{
+  color: purple;
+}
